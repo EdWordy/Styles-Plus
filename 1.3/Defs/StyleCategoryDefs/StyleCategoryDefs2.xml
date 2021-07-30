@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Defs>
+
+
+
+  <!-- Military -->
+
+  <StyleCategoryDef>
+    <defName>Military</defName>
+    <label>Military</label>
+    <iconPath>UI/StyleCategories/Military</iconPath>
+    <soundOngoingRitual>RitualSustainer_Military</soundOngoingRitual>
+    <ritualVisualEffectDef>Military</ritualVisualEffectDef>
+	
+    <thingDefStyles>
+    <li>
+		<thingDef>Apparel_SimpleHelmet</thingDef>
+		<styleDef>Military_SimpleHelmet</styleDef>
+    </li>
+    <li>
+		<thingDef>Apparel_AdvancedHelmet</thingDef>
+		<styleDef>Military_AdvancedHelmet</styleDef>
+    </li>
+	<li>
+		<thingDef>Apparel_FlakJacket</thingDef>
+		<styleDef>Military_FlakJacket</styleDef>
+    </li>
+    <li>
+		<thingDef>Ideogram</thingDef>
+		<styleDef>Military_IdeogramA</styleDef>
+    </li>
+    <li>
+		<thingDef>Ideogram</thingDef>
+		<styleDef>Military_IdeogramB</styleDef>
+    </li>
+	<li>
+		<thingDef>Ideogram</thingDef>
+		<styleDef>Military_IdeogramC</styleDef>
+    </li>
+	<li>
+		<thingDef>Bed</thingDef>
+		<styleDef>Military_Cot</styleDef>
+    </li>
+	  
+	</thingDefStyles>
+  </StyleCategoryDef>
+	  
+	  
+	     
+  <!-- Industrialist -->
+
+  <StyleCategoryDef>
+    <defName>Industrialist</defName>
+    <label>Industrialist</label>
+    <iconPath>UI/StyleCategories/Industrialist</iconPath>
+    <soundOngoingRitual>RitualSustainer_Industrialist</soundOngoingRitual>
+    <ritualVisualEffectDef>Industrialist</ritualVisualEffectDef>
+	
+    <thingDefStyles>
+	<li>
+		<thingDef>Apparel_SimpleHelmet</thingDef>
+		<styleDef>Industrialist_SimpleHelmet</styleDef>
+    </li>
+    <li>
+		<thingDef>Apparel_AdvancedHelmet</thingDef>
+		<styleDef>Industrialist_AdvancedHelmet</styleDef>
+    </li>
+    <li>
+		<thingDef>Ideogram</thingDef>
+		<styleDef>Industrialist_IdeogramA</styleDef>
+    </li>
+    <li>
+		<thingDef>Ideogram</thingDef>
+		<styleDef>Industrialist_IdeogramB</styleDef>
+    </li>
+	<li>
+		<thingDef>Ideogram</thingDef>
+		<styleDef>Industrialist_IdeogramC</styleDef>
+    </li>
+	<li>
+		<thingDef>StandingLamp</thingDef>
+		<styleDef>Industrialist_StandingLamp</styleDef>
+	</li>
+
+    </thingDefStyles>
+  </StyleCategoryDef>
+  
+  
+  
+   <!-- Capitalist -->
+
+  <StyleCategoryDef>
+    <defName>Capitalist</defName>
+    <label>Capitalist</label>
+    <iconPath>UI/StyleCategories/Capitalist</iconPath>
+    <soundOngoingRitual>RitualSustainer_Capitalist</soundOngoingRitual>
+    <ritualVisualEffectDef>Capitalist</ritualVisualEffectDef>
+	
+    <thingDefStyles>
+    <li>
+		<thingDef>Ideogram</thingDef>
+		<styleDef>Capitalist_IdeogramA</styleDef>
+    </li>
+    <li>
+		<thingDef>Ideogram</thingDef>
+		<styleDef>Capitalist_IdeogramB</styleDef>
+    </li>
+	<li>
+		<thingDef>Ideogram</thingDef>
+		<styleDef>Capitalist_IdeogramC</styleDef>
+    </li>
+
+    </thingDefStyles>
+  </StyleCategoryDef>
+
+
+
+	<!-- Etc -->
+  
+
+
+
+
+
+
+
+
+</Defs>

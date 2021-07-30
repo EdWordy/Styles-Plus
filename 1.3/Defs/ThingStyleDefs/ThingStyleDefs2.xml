@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+
+  <!-- Military -->
+
+  <ThingStyleDef>
+    <defName>Military_SimpleHelmet</defName>
+    <wornGraphicPath>Things/Pawn/Humanlike/ApparelStyles/HelmetSimpleMilitary/HelmetSimpleMilitary</wornGraphicPath>
+    <graphicData>
+      <texPath>Things/Pawn/Humanlike/ApparelStyles/HelmetSimpleMilitary/HelmetSimpleMilitary</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingStyleDef>
+
+  <ThingStyleDef>
+    <defName>Military_AdvancedHelmet</defName>
+    <wornGraphicPath>Things/Pawn/Humanlike/ApparelStyles/HelmetAdvancedMilitary/HelmetAdvancedMilitary</wornGraphicPath>
+    <graphicData>
+      <texPath>Things/Pawn/Humanlike/ApparelStyles/HelmetAdvancedMilitary/HelmetAdvancedMilitary</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingStyleDef>
+  
+  <ThingStyleDef>
+    <defName>Military_FlakJacket</defName>
+    <wornGraphicPath>Things/Pawn/Humanlike/ApparelStyles/FlakJacketMilitary/FlakJacketMilitary</wornGraphicPath>
+    <graphicData>
+      <texPath>Things/Pawn/Humanlike/ApparelStyles/FlakJacketMilitary/FlakJacketMilitary</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingStyleDef>
+
+  <ThingStyleDef>
+    <defName>Military_IdeogramA</defName>
+    <graphicData>
+      <texPath>Things/Building/Misc/Ideogram/IconMilitary/IconMilitaryA</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(3,3)</drawSize>
+    </graphicData>
+  </ThingStyleDef>
+
+  <ThingStyleDef>
+    <defName>Military_IdeogramB</defName>
+    <graphicData>
+      <texPath>Things/Building/Misc/Ideogram/IconMilitary/IconMilitaryB</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(3,3)</drawSize>
+    </graphicData>
+  </ThingStyleDef>
+  
+  <ThingStyleDef>
+    <defName>Military_IdeogramC</defName>
+    <graphicData>
+      <texPath>Things/Building/Misc/Ideogram/IconMilitary/IconMilitaryC</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(3,3)</drawSize>
+    </graphicData>
+  </ThingStyleDef>
+  
+  <ThingStyleDef>
+    <defName>Military_Cot</defName>
+    <graphicData>
+      <texPath>Things/BuildingStyles/Military/Bed/Cot</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(2,2)</drawSize>
+    </graphicData>
+  </ThingStyleDef>
+  
+  
+  
+  <!-- Industrialist -->
+  
+  <ThingStyleDef>
+    <defName>Industrialist_SimpleHelmet</defName>
+    <wornGraphicPath>Things/Pawn/Humanlike/ApparelStyles/HelmetSimpleIndustrialist/HelmetSimpleIndustrialist</wornGraphicPath>
+    <graphicData>
+      <texPath>Things/Pawn/Humanlike/ApparelStyles/HelmetSimpleIndustrialist/HelmetSimpleIndustrialist</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingStyleDef>
+
+  <ThingStyleDef>
+    <defName>Industrialist_AdvancedHelmet</defName>
+    <wornGraphicPath>Things/Pawn/Humanlike/ApparelStyles/HelmetAdvancedIndustrialist/HelmetAdvancedIndustrialist</wornGraphicPath>
+    <graphicData>
+      <texPath>Things/Pawn/Humanlike/ApparelStyles/HelmetAdvancedIndustrialist/HelmetAdvancedIndustrialist</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingStyleDef>
+
+  <ThingStyleDef>
+    <defName>Industrialist_IdeogramA</defName>
+    <graphicData>
+      <texPath>Things/Building/Misc/Ideogram/IconIndustrialist/IconIndustrialistA</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(3,3)</drawSize>
+    </graphicData>
+  </ThingStyleDef>
+
+  <ThingStyleDef>
+    <defName>Industrialist_IdeogramB</defName>
+    <graphicData>
+      <texPath>Things/Building/Misc/Ideogram/IconIndustrialist/IconIndustrialistB</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(3,3)</drawSize>
+    </graphicData>
+  </ThingStyleDef>
+  
+  <ThingStyleDef>
+    <defName>Industrialist_IdeogramC</defName>
+    <graphicData>
+      <texPath>Things/Building/Misc/Ideogram/IconIndustrialist/IconIndustrialistC</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(3,3)</drawSize>
+    </graphicData>
+  </ThingStyleDef>
+  
+  <ThingStyleDef Name="Industrialist_StandingLamp">
+    <defName>Industrialist_StandingLamp</defName>
+    <graphicData>
+      <texPath>Things/BuildingStyles/Industrialist/IndustrialistLampStanding</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingStyleDef>
+
+  <ThingStyleDef ParentName="Industrialist_StandingLamp">
+    <defName>Industrialist_StandingLamp_Red</defName>
+  </ThingStyleDef>
+
+  <ThingStyleDef ParentName="Industrialist_StandingLamp">
+    <defName>Industrialist_StandingLamp_Blue</defName>
+  </ThingStyleDef>
+
+  <ThingStyleDef ParentName="Industrialist_StandingLamp">
+    <defName>Industrialist_StandingLamp_Green</defName>
+  </ThingStyleDef>
+
+  
+  
+	<!-- Capitalist -->
+  
+  <ThingStyleDef>
+    <defName>Capitalist_IdeogramA</defName>
+    <graphicData>
+      <texPath>Things/Building/Misc/Ideogram/IconCapitalist/IconCapitalistA</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(3,3)</drawSize>
+    </graphicData>
+  </ThingStyleDef>
+
+  <ThingStyleDef>
+    <defName>Capitalist_IdeogramB</defName>
+    <graphicData>
+      <texPath>Things/Building/Misc/Ideogram/IconCapitalist/IconCapitalistB</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(3,3)</drawSize>
+    </graphicData>
+  </ThingStyleDef>
+  
+  <ThingStyleDef>
+    <defName>Capitalist_IdeogramC</defName>
+    <graphicData>
+      <texPath>Things/Building/Misc/Ideogram/IconCapitalist/IconCapitalistC</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(3,3)</drawSize>
+    </graphicData>
+  </ThingStyleDef>
+	
+	
+	
+	<!-- Etc -->
+  
+  
+  
+  
+  
+  
+  
+</Defs>

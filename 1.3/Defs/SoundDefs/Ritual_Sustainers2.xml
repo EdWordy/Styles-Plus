@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<!-- Military -->
+
+  <SoundDef ParentName="RitualSustainerBase">
+    <defName>RitualSustainer_Military</defName>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Ambience/RitualSustainers/Ritual_Sustainer_Military_Loop_01a</clipPath>
+          </li>
+        </grains>
+        <volumeRange>15</volumeRange>
+        <distRange>30~100</distRange>
+        <sustainAttack>3</sustainAttack>
+        <sustainSkipFirstAttack>False</sustainSkipFirstAttack>
+      </li>
+    </subSounds>
+  </SoundDef>
+  
+  
+  
+  <!-- Industrialist -->
+  
+   <SoundDef ParentName="RitualSustainerBase">
+    <defName>RitualSustainer_Industrialist</defName>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Ambience/RitualSustainers/Ritual_Sustainer_Industrialist_Loop_01a</clipPath>
+          </li>
+        </grains>
+        <volumeRange>15</volumeRange>
+        <distRange>30~100</distRange>
+        <sustainAttack>3</sustainAttack>
+        <sustainSkipFirstAttack>False</sustainSkipFirstAttack>
+      </li>
+    </subSounds>
+  </SoundDef>
+  
+    <!-- Capitalist -->
+  
+   <SoundDef ParentName="RitualSustainerBase">
+    <defName>RitualSustainer_Capitalist</defName>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Ambience/RitualSustainers/Ritual_Sustainer_Capitalist_Loop_01a</clipPath>
+          </li>
+        </grains>
+        <volumeRange>15</volumeRange>
+        <distRange>30~100</distRange>
+        <sustainAttack>3</sustainAttack>
+        <sustainSkipFirstAttack>False</sustainSkipFirstAttack>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+
+  
+</Defs>

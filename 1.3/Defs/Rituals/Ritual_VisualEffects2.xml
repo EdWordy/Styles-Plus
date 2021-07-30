@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+
+	<!-- Military -->
+
+  <RitualVisualEffectDef ParentName="RitualGlowAbstract">
+    <defName>Military</defName>
+    <tintColor>(52, 93, 49)</tintColor>
+    <comps>
+      <li Class="CompProperties_RitualEffectIntervalSpawnArea">
+        <fleckDef>BlurrySpark</fleckDef>
+        <area>(24, 22)</area>
+        <spawnIntervalTicks>3</spawnIntervalTicks>
+        <spawnCount>2</spawnCount>
+        <scalePositionWithRoom>true</scalePositionWithRoom>
+        <onlySpawnInSameRoom>true</onlySpawnInSameRoom>
+      </li>
+    </comps>
+  </RitualVisualEffectDef>
+  
+  
+  
+  	<!-- Industrialist -->
+
+  <RitualVisualEffectDef ParentName="RitualGlowAbstract">
+    <defName>Industrialist</defName>
+    <tintColor>(136, 136, 136)</tintColor>
+    <comps>
+      <li Class="CompProperties_RitualEffectIntervalSpawnArea">
+        <fleckDef>BlurrySpark</fleckDef>
+        <area>(24, 22)</area>
+        <spawnIntervalTicks>3</spawnIntervalTicks>
+        <spawnCount>2</spawnCount>
+        <scalePositionWithRoom>true</scalePositionWithRoom>
+        <onlySpawnInSameRoom>true</onlySpawnInSameRoom>
+      </li>
+    </comps>
+  </RitualVisualEffectDef>
+  
+  
+  
+  <!-- Capitalist -->
+  
+  <RitualVisualEffectDef ParentName="RitualGlowAbstract">
+    <defName>Capitalist</defName>
+    <tintColor>(255, 255, 0)</tintColor>
+    <comps>
+      <li Class="CompProperties_RitualEffectIntervalSpawnArea">
+        <fleckDef>BlurrySpark</fleckDef>
+        <area>(24, 22)</area>
+        <spawnIntervalTicks>3</spawnIntervalTicks>
+        <spawnCount>2</spawnCount>
+        <scalePositionWithRoom>true</scalePositionWithRoom>
+        <onlySpawnInSameRoom>true</onlySpawnInSameRoom>
+      </li>
+    </comps>
+  </RitualVisualEffectDef>
+
+</Defs>

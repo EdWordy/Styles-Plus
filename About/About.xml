@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>Styles Plus</name>
+	<author>TedDraws</author>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<packageId>teddraws.stylesplus</packageId>
+	<modDependencies>
+    <li>
+        <packageId>Ludeon.Rimworld.Ideology</packageId>
+        <displayName>Ideology</displayName>
+        <steamWorkshopUrl>https://store.steampowered.com/app/1392840/RimWorld__Ideology/</steamWorkshopUrl>
+    </li>
+	</modDependencies>
+	<description>
+Adds several new styles and accompanying retextures to the game including: 
+-Military 
+-Industrialist
+-Capitalist
+and more! (Planned)
+
+Recommended Mods:
+-Apparello 2
+-FashionRIMsta
+-Roles Apparel Unlocked
+
+---
+	
+Ver 1.3.0.2 for Rimworld 1.3
+	</description>
+</ModMetaData>
