@@ -5,7 +5,9 @@ Adds several new styles to the game.
 ---
 
 Contributors:
+
 TedDraws - XML, General Concept, Textures
+
 Chicken Plucker - Textures
 
 ---
