@@ -68,6 +68,14 @@
     </graphicData>
   </ThingStyleDef>
   
+  <ThingStyleDef>
+    <defName>Military_Stool</defName>
+    <graphicData>
+      <texPath>Things/BuildingStyles/Military/Stool/Stool</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(2,2)</drawSize>
+    </graphicData>
+  </ThingStyleDef>
   
   
   <!-- Industrialist -->
@@ -137,6 +145,15 @@
     <defName>Industrialist_StandingLamp_Green</defName>
   </ThingStyleDef>
 
+   <ThingStyleDef>
+    <defName>Industrialist_Jacket</defName>
+    <wornGraphicPath>Things/Pawn/Humanlike/ApparelStyles/JacketIndustrialist/Jacket</wornGraphicPath>
+    <graphicData>
+      <texPath>Things/Pawn/Humanlike/ApparelStyles/JacketIndustrialist/Jacket</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingStyleDef>
+  
   
   
 	<!-- Capitalist -->

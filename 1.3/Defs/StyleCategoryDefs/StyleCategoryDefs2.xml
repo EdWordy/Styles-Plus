@@ -41,6 +41,10 @@
 		<thingDef>Bed</thingDef>
 		<styleDef>Military_Cot</styleDef>
     </li>
+	<li>
+		<thingDef>Stool</thingDef>
+		<styleDef>Military_Stool</styleDef>
+    </li>
 	  
 	</thingDefStyles>
   </StyleCategoryDef>
@@ -81,6 +85,10 @@
 		<thingDef>StandingLamp</thingDef>
 		<styleDef>Industrialist_StandingLamp</styleDef>
 	</li>
+	<li>
+		<thingDef>Apparel_Jacket</thingDef>
+		<styleDef>Industrialist_Jacket</styleDef>
+    </li>
 
     </thingDefStyles>
   </StyleCategoryDef>
