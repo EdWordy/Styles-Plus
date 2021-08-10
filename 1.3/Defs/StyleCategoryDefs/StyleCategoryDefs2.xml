@@ -117,7 +117,15 @@
 		<thingDef>Ideogram</thingDef>
 		<styleDef>Capitalist_IdeogramC</styleDef>
     </li>
-
+	<li>
+		<thingDef>Apparel_Jacket</thingDef>
+		<styleDef>Capitalist_Jacket</styleDef>
+    </li>
+	<li>
+		<thingDef>Apparel_CollarShirt</thingDef>
+		<styleDef>Capitalist_CollarShirt</styleDef>
+    </li>
+		
     </thingDefStyles>
   </StyleCategoryDef>
 

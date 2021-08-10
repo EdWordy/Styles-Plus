@@ -185,8 +185,26 @@
     </graphicData>
   </ThingStyleDef>
 	
-	
-	
+  <ThingStyleDef>
+    <defName>Capitalist_Jacket</defName>
+    <wornGraphicPath>Things/Pawn/Humanlike/ApparelStyles/JacketCapitalist/Jacket</wornGraphicPath>
+    <graphicData>
+      <texPath>Things/Pawn/Humanlike/ApparelStyles/JacketCapitalist/Jacket</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingStyleDef>	
+
+  <ThingStyleDef>
+    <defName>Capitalist_CollarShirt</defName>
+    <wornGraphicPath>Things/Pawn/Humanlike/ApparelStyles/ShirtButtonCapitalist/ShirtButton</wornGraphicPath>
+    <graphicData>
+      <texPath>Things/Pawn/Humanlike/ApparelStyles/ShirtButtonCapitalist/ShirtButton</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingStyleDef>
+
+
+
 	<!-- Etc -->
   
   
