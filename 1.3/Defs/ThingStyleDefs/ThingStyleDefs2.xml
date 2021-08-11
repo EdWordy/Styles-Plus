@@ -154,7 +154,14 @@
     </graphicData>
   </ThingStyleDef>
   
-  
+  <ThingStyleDef>
+    <defName>Industrialist_Duster</defName>
+    <wornGraphicPath>Things/Pawn/Humanlike/ApparelStyles/DusterIndustrialist/Duster</wornGraphicPath>
+    <graphicData>
+      <texPath>Things/Pawn/Humanlike/ApparelStyles/DusterIndustrialist/Duster</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingStyleDef>  
   
 	<!-- Capitalist -->
   

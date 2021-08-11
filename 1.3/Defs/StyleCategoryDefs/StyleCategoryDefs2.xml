@@ -89,7 +89,11 @@
 		<thingDef>Apparel_Jacket</thingDef>
 		<styleDef>Industrialist_Jacket</styleDef>
     </li>
-
+	<li>
+		<thingDef>Apparel_Duster</thingDef>
+		<styleDef>Industrialist_Duster</styleDef>
+    </li>
+	
     </thingDefStyles>
   </StyleCategoryDef>
   
